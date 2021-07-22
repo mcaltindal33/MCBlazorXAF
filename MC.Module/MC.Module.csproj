@@ -38,7 +38,6 @@
     <Folder Include="BusinessObjects\Hesap\" />
     <Folder Include="BusinessObjects\Hareket\" />
     <Folder Include="BusinessObjects\Urun\" />
-    <Folder Include="BusinessObjects\Tur\" />
     <Folder Include="Controllers\" />
     <Folder Include="Images\" />
   </ItemGroup>
